@@ -5,6 +5,10 @@ public class main {
 
         System.out.println("Hola mundo");
 
-        
+        int variable = 10 ;
+
+        int variable2 = 15;
+
+        System.out.println(variable2+variable);
     }
 }
